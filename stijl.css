@@ -1,0 +1,16 @@
+.welbevinden label
+{
+  display: inline-block;
+  padding: 1em;
+  background: red;
+  cursor: pointer;
+  text-align: center;
+}
+.welbevinden input
+{
+  display: block;
+}
+.Mening input
+{
+  display: inline-block;
+}
